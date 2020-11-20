@@ -7,7 +7,7 @@ public class Hello
 
       System.Console.WriteLine("Hello, Local!");
 
-      System.Console.WriteLine("Hello, GitHub!");
+      System.Console.WriteLine("Hello, Branch!");
 
    }
 }
